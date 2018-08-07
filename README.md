@@ -4,7 +4,7 @@ This is a Single-Page Application created with FR (Firebase, React) stack.
 
 This project was created with CRA presets
 
-In this project you can appreciate my skills as a frontend developer and some knowledges about firebase.
+In this project you can appreciate my frontend skills and some knowledges about firebase.
 
 [#Live demo](https://nba-app-f468d.firebaseapp.com)
 
