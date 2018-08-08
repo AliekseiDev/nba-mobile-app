@@ -1,3 +1,7 @@
+*Some code explanation:*
+
+* *Using node_modules folder let us to get rid of relative paths*
+
 # nba-mobile-app
 
 This is a Single-Page Application created with Firebase & React.
