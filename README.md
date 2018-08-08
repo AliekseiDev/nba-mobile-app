@@ -2,7 +2,7 @@
 
 This is a Single-Page Application created with FR (Firebase, React) stack.
 
-This project was created with CRA presets
+This project was created with CRA presets.
 
 In this project you can appreciate my frontend skills and some knowledges about firebase.
 
@@ -15,10 +15,13 @@ Auth data for testing
 |---|---|---|
 |User|test@mail.com|123456|
 
+#### List of technologies:
+* firebase
+* React
+* CSS Modules
 
 
-
-
+# 
 
 
 
