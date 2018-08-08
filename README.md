@@ -1,6 +1,6 @@
 # nba-mobile-app
 
-This is a Single-Page Application created with FR (Firebase, React) stack.
+This is a Single-Page Application created with Firebase & React.
 
 This project was created with CRA presets.
 
