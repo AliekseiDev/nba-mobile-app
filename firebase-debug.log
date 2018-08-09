@@ -1,0 +1,13 @@
+[debug] [2018-08-09T23:12:02.665Z] ----------------------------------------------------------------------
+[debug] [2018-08-09T23:12:02.669Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-08-09T23:12:02.669Z] CLI Version:   3.19.3
+[debug] [2018-08-09T23:12:02.669Z] Platform:      win32
+[debug] [2018-08-09T23:12:02.669Z] Node Version:  v8.9.4
+[debug] [2018-08-09T23:12:02.669Z] Time:          Fri Aug 10 2018 01:12:02 GMT+0200 (Środkowoeuropejski czas letni)
+[debug] [2018-08-09T23:12:02.673Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-09T23:12:02.685Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-09T23:12:02.685Z] > authorizing via signed-in user
+[debug] [2018-08-09T23:12:02.689Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/nba-app-f468d  
+  
+ Fri Aug 10 2018 01:12:02 GMT+0200 (Środkowoeuropejski czas letni)
