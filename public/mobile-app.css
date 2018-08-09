@@ -1,0 +1,26 @@
+body, html{
+  overflow: hidden;
+}
+
+#root{
+  overflow: auto;
+}
+
+.warning, #root{
+  height: 100vh;
+  max-width: 550px;
+  max-height: 650px;
+  position: relative;
+}
+
+.warning .message{
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 100%;
+  transform: rotate(90deg) translateY(-100%);
+  transform-origin: 0 0;
+  font-weight: bold;
+}

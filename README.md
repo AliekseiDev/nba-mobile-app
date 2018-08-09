@@ -8,12 +8,13 @@ This is a Single-Page Application created with Firebase & React.
 
 This project was created with CRA presets.
 
-In this project you can appreciate my frontend skills and some knowledges about firebase.
+In this project you can appreciate some of my knowledges about firebase.
 
 
 [#Live demo](https://nba-app-f468d.firebaseapp.com)
 
 *Please note, this is a mobile app*
+*Please note, app is very simple and this is not a real project*
 
 
 Auth data for testing
