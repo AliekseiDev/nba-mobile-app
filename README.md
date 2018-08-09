@@ -14,6 +14,7 @@ In this project you can appreciate some of my knowledges about firebase.
 [#Live demo](https://nba-app-f468d.firebaseapp.com)
 
 *Please note, this is a mobile app*
+
 *Please note, app is very simple and this is not a real project*
 
 
